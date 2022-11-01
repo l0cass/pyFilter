@@ -18,7 +18,7 @@
 >
 > <a href="https://docs.python.org/3/library/platform.html">Platform</a>, para informar o sistema operacional
 >
-> <a href="https://docs.python.org/3/library/webbrowser.html">Socket</a>, para informar IP e IP local
+> <a href="https://docs.python.org/3/library/socket.html">Socket</a>, para informar IP e IP local
 
 <hr></hr>
 
